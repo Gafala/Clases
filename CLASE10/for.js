@@ -1,0 +1,1 @@
+//generalmente se usa FOR para recorrer ARRAYS

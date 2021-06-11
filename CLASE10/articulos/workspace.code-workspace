@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "data",
+			"path": "..\\data"
+		},
+		{
+			"name": "CLASE11",
+			"path": "..\\..\\CLASE11"
+		},
+		{
+			"name": "articulos",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "marca": "Ford",
+        "modelo": "Focus",
+        "anio": 201,
+        "patente": "ABC123",
+        "tipo": "Sedan",
+        "precio": 300.00,
+        "cuotas": 3,
+        "vendido": false
+    },
+    {
+        "marca": "Fiat",
+        "modelo": "Siena",
+        "anio": 2002,
+        "patente": "AAE123",
+        "tipo": "Sedan",
+        "precio": 250000,
+        "cuotas": 24,
+        "vendido": false
+    }
+]
